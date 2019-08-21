@@ -2,11 +2,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
   <Say voice="alice" language="en-US">
-    Hello! I am Grapher!
-    Please check your grafana!
-    Hello! I am Grapher!
-    Please check your grafana!
-    Hello! I am Grapher!
-    Please check your grafana!
+    Hello! I am Tester!
+    Please keep calm and listen!
+    Hello! I am Tester!
+    Please keep calm and listen!
+    Hello! I am Tester!
+    Please keep calm and listen!
   </Say>
 </Response>
