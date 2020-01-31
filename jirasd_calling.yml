@@ -1,12 +1,11 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
   <Say voice="alice" language="en-US">
-    Hello! Service deck is calling!
-    Hello! Service deck is calling!
-    Hello! Service deck is calling!
-    Hello! Service deck is calling!
-    Hello! Service deck is calling!
-    Hello! Service deck is calling!
+    Hello! i am Nicolas Rage!
+    Please check your service deck!
+    Hello! i am Nicolas Rage!
+    Please check your service deck!
+    Hello! i am Nicolas Rage!
+    Please check your service deck!
   </Say>
 </Response>
